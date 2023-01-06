@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "About Me"
-excerpt: "About Me"
+title: "Hello!"
+excerpt: "Hello!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am a first-year Ph.D. student in the Business Economics program at Harvard University. My research interests include finance, industrial organization, and market design. I graduated from Harvard College in 2019 with an A.B. in Math and Computer Science and a secondary in Statistics.
+I'm Shira Li, a first-year Ph.D. student in Business Economics at Harvard. I graduated from Harvard College in 2019 with an A.B. in Mathematics and Computer Science and a secondary in Statistics. Before starting my Ph.D., I was a mortgage trader at Goldman Sachs. My current research interests are in finance, industrial organization, and market design.
 
 This site is currently under construction.
