@@ -14,4 +14,4 @@ This site is currently under construction.
 
 ## Research
 ### Conference Papers
-- [Deep Learning for Two-Sided Matching](https://arxiv.org/abs/2107.03427) (with Sai Ravindranath, Zhe Feng, Jonathan Ma, Scott Kominers, and David Parkes) --- Presented at MATCH-UP 2022, submitted to NeurIPS 2023.
+- [Deep Learning for Two-Sided Matching](https://arxiv.org/abs/2107.03427) (with Sai Ravindranath, Zhe Feng, Jonathan Ma, Scott Kominers, and David Parkes) --- _Presented at MATCH-UP 2022, submitted to NeurIPS 2023._
