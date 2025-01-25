@@ -13,5 +13,5 @@ I'm Shira Li, a Ph.D. student in Business Economics at Harvard. I graduated from
 This site is currently under construction.
 
 ## Research
-### Conference Papers
+### Working Papers
 - [Deep Learning for Two-Sided Matching](https://arxiv.org/abs/2107.03427) (with Sai Ravindranath, Zhe Feng, Jonathan Ma, Scott Kominers, and David Parkes)
