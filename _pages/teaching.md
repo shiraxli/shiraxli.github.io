@@ -1,9 +1,12 @@
 ---
 layout: archive
-title: "Undergraduate Teaching"
+title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
+
+### Data for Impact (HBSMBA 1641)
+Teaching Assistant for Professors Benjamin Roth and Natalia Rigol, Spring 2025
 
 ### Economics of Networks (ECON 1033) 
 Grader for Professor Benjamin Golub, Spring 2019
